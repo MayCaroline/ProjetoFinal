@@ -3,11 +3,6 @@
     padding: 0;
 }
 
-@media screen and (max-width:5px) {
- 
-}
-
-
 body {
     font-family: 'Open Sans', sans-serif; 
     font-size: 18px; 
@@ -47,8 +42,6 @@ ul, ol {
     border-bottom: 2px solid #fff;
 }
 
-
- 
 main {
     display: flex; 
     flex-direction: column;
@@ -60,10 +53,6 @@ section {
     padding: 45px 30px; 
     margin: auto;
     width: 960px;
-
-    min-width: 320px;
-    max-width: 800px;
-
 }
 
 #identificação{
@@ -72,8 +61,7 @@ section {
 
 #paragrafo{
     text-align: center;
-    padding: 100px;
-   
+    padding: 100px;  
 
 }
 
@@ -124,7 +112,6 @@ Ul li a{
     text-align: center;
 }
 
-
 #contato{
     color: #fff;
     font-weight: 700;
@@ -141,8 +128,7 @@ Ul li a{
 
 Ol li a {
     Text-decoration: none;
-    color: #fff;
-    
+    color: #fff;   
     
 }
 
