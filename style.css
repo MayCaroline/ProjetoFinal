@@ -6,7 +6,7 @@
 body {
     font-family: 'Open Sans', sans-serif; 
     font-size: 18px; 
-    background-color: #fffafa;
+    background-color: #fff;
 
 }
 
@@ -68,6 +68,7 @@ section {
 .sub-section {
     background-color: #eceaea;
     width: 100%;
+    text-align: justify;
 }
 
 h1 {
@@ -89,6 +90,7 @@ h2, h4 {
 section ul {
     max-width: 760px;
     margin: auto;
+
 }
 
 Ul li a{
